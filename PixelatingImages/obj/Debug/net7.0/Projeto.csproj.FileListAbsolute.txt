@@ -1,0 +1,50 @@
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\Projeto.exe
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\Projeto.deps.json
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\Projeto.runtimeconfig.json
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\Projeto.dll
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\Projeto.pdb
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\joaol\Downloads\Trabalhando com imagens\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.AssemblyInfo.cs
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.csproj.CopyComplete
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.dll
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\refint\Projeto.dll
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.pdb
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\Projeto.genruntimeconfig.cache
+C:\Users\joaol\Downloads\Trabalhando com imagens\obj\Debug\net7.0\ref\Projeto.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\Projeto.exe
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\Projeto.deps.json
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\Projeto.runtimeconfig.json
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\Projeto.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\Projeto.pdb
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.AssemblyInfo.cs
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.csproj.CopyComplete
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\refint\Projeto.dll
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.pdb
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\Projeto.genruntimeconfig.cache
+C:\Users\joaol\Documents\GitHub\CognitiveComputing\PixelatingImages\obj\Debug\net7.0\ref\Projeto.dll
