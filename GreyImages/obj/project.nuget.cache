@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gt4D9UDugDl/uTYPl0qmEwT5B8MxNvsMidYA99ar0sQwV/nNSN+QzWhClr0t3ddDaNET13ffE5+2HtNAq1Jxig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaol\\Documents\\GitHub\\CognitiveComputing\\GreyImages\\Projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.3\\skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
